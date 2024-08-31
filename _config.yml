@@ -19,7 +19,7 @@ locale                   : "id-ID"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Farras Zaky"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "" # site tagline that appears below site title in masthead
 name                     : "Farras Zaky"
 description              : "Halo! Saya Farras Zaky, biasa dipanggil Farras. Saya seorang programer pemula. Untuk saat ini saya masih mempelajari HTML, CSS dan bahasa pemrogaman Python."
 url                      : "https://farraszaky.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -115,13 +115,13 @@ analytics:
 author:
   name             : "Farras Zaky"
   avatar           : "https://yt3.googleusercontent.com/LTaAunwASCKuPc8kr9R1VOUB7jxYMC0kV8FJfoZGkxUw1-nzNsd_td-C48LytWalMJ5dRX54U6U=s512-c-k-c0x00ffffff-no-rj" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Amateur Developer"
+  bio              : ""
   location         : "Indonesia"
   email            : "farraszaky.id@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:farraszaky.id@gmail.com"
+      # url: "mailto:"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
