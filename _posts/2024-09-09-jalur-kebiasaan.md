@@ -4,7 +4,7 @@ date: 2024-09-09
 categories:
     - Lifestyle
 tags:
-    - Habit
+    - Habits
 ---
 
 Sebagai manusia, kebiasaan adalah sebuah pola yang mendasar untuk menjalani kehidupan. Dari sebuah aksi kecil sederhana yang dilakukan individu secara terus-menerus dapat membentuk sebuah kebiasaan. Setiap kebiasaan yang terbentuk, kebiasaan tersebut akan mengurangi waktu. Semakin banyak kebiasaan yang dimiliki, semakin banyak waktu yang akan terkurangi.
