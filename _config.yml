@@ -115,13 +115,13 @@ analytics:
 author:
   name             : "Farras Zaky"
   avatar           : "https://yt3.googleusercontent.com/LTaAunwASCKuPc8kr9R1VOUB7jxYMC0kV8FJfoZGkxUw1-nzNsd_td-C48LytWalMJ5dRX54U6U=s512-c-k-c0x00ffffff-no-rj" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "An amateur developer. Enjoys playing good old games."
+  bio              : "An amateur developer. Enjoys watching YouTube videos, reading some books and playing good old games."
   location         : "Indonesia"
-  email            : "farraszaky.id@gmail.com"
+  email            : ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:"
+      url: "farraszaky.id@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -146,7 +146,7 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://facebook.com/farraszakys"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/farraszaky"
@@ -158,7 +158,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://instagram.com/farraszakys"
 
 
 # Reading Files
