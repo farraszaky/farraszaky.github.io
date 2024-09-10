@@ -115,12 +115,10 @@ analytics:
 author:
   name             : "Farras Zaky"
   avatar           : "https://yt3.googleusercontent.com/LTaAunwASCKuPc8kr9R1VOUB7jxYMC0kV8FJfoZGkxUw1-nzNsd_td-C48LytWalMJ5dRX54U6U=s512-c-k-c0x00ffffff-no-rj" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "An amateur developer. Enjoys watching YouTube videos, reading some books and playing good old games."
+  bio              : "An amateur developer. Enjoys various things like watching YouTube videos, reading some books and playing good old games."
   location         : "Indonesia"
+  email            : "mailto:farraszaky.id@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:farraszaky.id@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
